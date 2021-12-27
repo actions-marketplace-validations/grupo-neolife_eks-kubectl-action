@@ -1,4 +1,4 @@
-name: 'EKS kubectl'
+name: 'EKS kubectl (v1.16)'
 author: Grupo Neolife
 description: An action allowing you to integrate with EKS via kubectl in a Github Action, easily with fixed kubectl version to 1.16 ...
 branding:
