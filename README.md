@@ -1,4 +1,4 @@
-# eks-kubectl
+# eks-kubectl (fixed to v1.16)
 
 Access your EKS cluster via `kubectl` in a Github Action. No fuss, no messing around with special
 kubeconfigs, just ensure you have `eks:ListCluster` and `eks:DescribeCluster` rights on your
